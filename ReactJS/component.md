@@ -56,8 +56,7 @@ render() {
 }
 ...
 ```
-
-3. JSX
+### 3. JSX
 
 - JSX hay Javascript XML là một dạng cú pháp mở rộng cho javascript trong React. Nó dùng để giúp chúng ta có thể code được phần cấu trúc HTML thông thường trong React.
 - Cú pháp của JSX có dạng giống với XML, hay cũng có thể nói là giống như HTML với các node (nút), mỗi node sẽ có thẻ đóng, mở và nội dung bên trong.
